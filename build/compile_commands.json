@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build",
+  "command": "/usr/bin/clang++  -I/Users/chendongsheng/github/cds_qr_code/libqrencode -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -o CMakeFiles/cds_qr_code.dir/main.cpp.o -c /Users/chendongsheng/github/cds_qr_code/main.cpp",
+  "file": "/Users/chendongsheng/github/cds_qr_code/main.cpp"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/qrencode.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/qrencode.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/qrencode.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/qrinput.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/qrinput.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/qrinput.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/bitstream.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/bitstream.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/bitstream.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/qrspec.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/qrspec.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/qrspec.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/rsecc.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/rsecc.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/rsecc.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/split.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/split.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/split.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/mask.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/mask.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/mask.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/mqrspec.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/mqrspec.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/mqrspec.c"
+},
+{
+  "directory": "/Users/chendongsheng/github/cds_qr_code/build/libqrencode",
+  "command": "/usr/bin/clang -DHAVE_LIBPTHREAD=1 -DHAVE_SDL=0 -DHAVE_STRDUP=1 -DMAJOR_VERSION=4 -DMICRO_VERSION=1 -DMINOR_VERSION=1 -DSTATIC_IN_RELEASE=\"\" -DVERSION=\\\"4.1.1\\\" -DWITH_TESTS=\"\" -Dqrencode_EXPORTS  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -fPIC -o CMakeFiles/qrencode.dir/mmask.c.o -c /Users/chendongsheng/github/cds_qr_code/libqrencode/mmask.c",
+  "file": "/Users/chendongsheng/github/cds_qr_code/libqrencode/mmask.c"
+}
+]

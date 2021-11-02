@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cds_qr_code.dir/main.cpp.o -o cds_qr_code  -Wl,-rpath,/Users/chendongsheng/github/cds_qr_code/build/libqrencode libqrencode/libqrencode.4.1.1.dylib 
