@@ -211,10 +211,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/clang++"
 		},
 		{
@@ -307,10 +307,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/clang"
 		},
 		{
@@ -1483,10 +1483,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "The CMake toolchain file"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/Users/chendongsheng/github/vcpkg/scripts/buildsystems/vcpkg.cmake"
 		},
 		{
@@ -2031,11 +2031,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "(This variable does not exist and should not be used)"
+					"value" : "Path to a program."
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : ""
+			"type" : "FILEPATH",
+			"value" : "/usr/local/bin/git"
 		},
 		{
 			"name" : "GPROF",
